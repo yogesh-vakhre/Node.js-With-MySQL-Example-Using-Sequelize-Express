@@ -14,10 +14,10 @@ How to Authenticate Users and Implement CORS in Node.js Apps(https://www.freecod
 Basic simple example CRUD (Create,Read,Update,Delete) on Nodejs using framework Express JS featuring Sequelize ORM with database MySQL.
 
 ### 1) Clone project
-`git clone https://gitlab.com/yogesh.vakhre.5057/crud-express-sequelize.git`
+`git clone https://github.com/yogesh-vakhre/Node.js-With-MySQL-Example-Using-Sequelize-Express.git`
 
 ### 2) Go to root project
-`cd crud_express_sequelize`
+`cd Node.js-With-MySQL-Example-Using-Sequelize-Express`
 
 ### 3) Install sequelize-cli --globall 
 `npm install sequelize-cli -g`
